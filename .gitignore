@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.env
+
+*.exe
+
+*.tex
+
+**/__pycache__/
